@@ -1,7 +1,5 @@
 # Brazilian E-Commerce Azure Data Warehouse
 
-# Brazilian E-Commerce Azure Data Warehouse
-
 An end-to-end cloud data engineering project built with Azure Data Lake Storage Gen2, Azure Synapse Analytics, PolyBase, T-SQL, and Power BI.
 
 ## Project Overview
