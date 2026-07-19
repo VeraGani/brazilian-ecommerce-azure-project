@@ -53,6 +53,8 @@ Power BI Dashboard
 
 I selected this dataset because it represents a realistic business scenario for building a cloud data warehouse. The dataset contains multiple related tables, including customers, orders, products, payments, and reviews, making it well suited for practicing data modeling, SQL joins, aggregations, and analytical reporting. Its size is large enough to demonstrate an end-to-end Azure Synapse workflow.
 
+The link to the dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 The dataset contains information about:
 
 - Customers
@@ -135,6 +137,6 @@ Analytical query executed successfully in Azure Synapse Analytics.
 
 ### Power BI Dashboard
 
-Interactive dashboard created from the Azure Synapse data warehouse.
+Dashboard created from the Azure Synapse data warehouse.
 
 ![Power BI Dashboard](screenshots/04_powerbi_dashboard.png)
